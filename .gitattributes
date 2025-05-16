@@ -1,0 +1,6 @@
+# Ensure these languages are all counted
+*.java linguist-detectable=true
+*.html linguist-detectable=true
+# *.css linguist-detectable=true
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
